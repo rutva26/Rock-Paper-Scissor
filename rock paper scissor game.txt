@@ -17,8 +17,8 @@ cout<<"welcome to our small ROCK,PAPER AND SCISSORS Game"<<endl;
 cout<<"==========================================================="<<endl;
 do{
 cout<<endl<<"........1) rock..........✊........"<<endl;
-cout<<endl<<"........2) paper........✋........"<<endl;
-cout<<endl<<"........3) scissors......✌......."<<endl;
+cout<<endl<<"2) paper........✋........"<<endl;
+cout<<endl<<"3) scissors......✌......."<<endl;
 cin>>u_choice;
 cout<<"users choice"<<endl;
 switch(u_choice)
@@ -112,6 +112,7 @@ if (u_choice ==1 && c==2)
 cout<<"-----------------------------------------"<<endl;  
 cout<<"you can draw match from astart"<<endl;
 cout<<"-----------------------------------------"<<endl;
+cout<<"************MADE BY RUTVA KANAIYA AND NIYATI PUROHI*************";
 return 0;
 }
 
